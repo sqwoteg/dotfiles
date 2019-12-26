@@ -3,7 +3,6 @@ Demo is here https://www.youtube.com/watch?v=9QvPlxDjTUc
 ## Scripts
 
 **idleshutdown** - moves mouce, makes a screenshot and shutdowns PC after a certain time of inactivity. (deps: libnotify, scrot, xprintidle).
-
 **/path/to/idleshutdown -h** for help
 
 **rofi_idle_menu.sh** - runs idleshutdown
