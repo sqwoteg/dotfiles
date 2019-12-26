@@ -9,3 +9,6 @@
 
 **rofi_monitor_menu.sh** - changes video and audio output
 
+**lockscreen.sh** - i3lock config
+
+**rofi_menu.sh** - rofi menu. Saves unknown commands to **rofi_menu_recent_commands** to let them be easily reused.
